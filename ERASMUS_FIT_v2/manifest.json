@@ -1,0 +1,10 @@
+{
+  "name":"ERASMUS FIT",
+  "short_name":"ERASMUS FIT",
+  "start_url":"./index.html",
+  "display":"standalone",
+  "background_color":"#f8f6ff",
+  "theme_color":"#c8b6ff",
+  "description":"Rutina, registro y progreso de entrenamiento durante el Erasmus.",
+  "icons":[]
+}
